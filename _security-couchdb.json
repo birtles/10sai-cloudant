@@ -1,0 +1,11 @@
+{
+  "couchdb_auth_only": true,
+  "admins": {
+    "names": ["b62bf565-d36c-45ce-a12d-fc3bd31a256b-bluemix"],
+    "roles": ["_admin"]
+  },
+  "members": {
+    "names": [],
+    "roles": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "10sai-cloudant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "cradle": "^0.7.1",
+    "crypto": "^1.0.1"
+  }
+}
